@@ -1,0 +1,111 @@
+[
+{
+    "fields": {
+        "phone_number": "08 22240361",
+        "attraction_type": "Restaurant",
+        "name": "Beefsteak Titi",
+        "latitude": 10.7692323,
+        "price": 65000.0,
+        "closing_time": "10:00:00",
+        "longitude": 106.6826371,
+        "average_rating": 7.0,
+        "representative_photo": "",
+        "address": "29A Cao Thắng, Quận 3, TP. HCM",
+        "opening_time": "06:30:00",
+        "website_url": "https://www.facebook.com/pages/Beefsteak-TiTi/229271983776692",
+        "description": "TiTi là nhà hàng gia đình chuyên phục vụ những món ăn mang hương vị Pháp. Bò Úc thơm mềm, nước sốt kiểu Pháp, bánh mì sản xuất tại gia"
+    },
+    "model": "staservice.basedattraction",
+    "pk": 1
+},
+{
+    "fields": {
+        "phone_number": "09 4884 0808",
+        "attraction_type": "Shop",
+        "name": "Ninomaxx",
+        "latitude": 10.7659358,
+        "price": 100000.0,
+        "closing_time": "11:00:00",
+        "longitude": 106.6879677,
+        "average_rating": 8.0,
+        "representative_photo": "",
+        "address": "118 Nguyễn Trãi, Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh, Vietnam",
+        "opening_time": "09:00:00",
+        "website_url": "http://www.ninomaxx.com.vn/",
+        "description": "Công ty Thời Trang Việt sở hữu 03 thương hiệu Ninomaxx, N&M và Ninomaxx Concept là công ty Thời trang hàng đầu Việt Nam."
+    },
+    "model": "staservice.basedattraction",
+    "pk": 2
+},
+{
+    "fields": {
+        "phone_number": "(08) 3.8291425",
+        "attraction_type": "Park",
+        "name": "Thảo Cầm Viên",
+        "latitude": 10.7881177,
+        "price": 50000.0,
+        "closing_time": "17:00:00",
+        "longitude": 106.7065103,
+        "average_rating": 8.0,
+        "representative_photo": "",
+        "address": "2B Nguyễn Bỉnh Khiêm, Quận 1, TP. HCM  Nguồn: http://travel.foody.vn/ho-chi-minh/thao-cam-vien",
+        "opening_time": "07:00:00",
+        "website_url": "http://www.saigonzoo.net/",
+        "description": "Thảo Cầm Viên Sài Gòn không chỉ là nơi vui chơi, giải trí và tham quan của công chúng mà vai trò của nó còn bao gồm với các chức năng giáo dục, bảo tồn và nghiên cứu."
+    },
+    "model": "staservice.basedattraction",
+    "pk": 3
+},
+{
+    "fields": {
+        "phone_number": "(+84.8) 3925.7777",
+        "attraction_type": "Hotel",
+        "name": "Hotel Nikko Saigon",
+        "latitude": 10.764322,
+        "price": 0.0,
+        "closing_time": "12:00:00",
+        "longitude": 106.6829659,
+        "average_rating": 8.0,
+        "representative_photo": "",
+        "address": " 235 Nguyễn Văn Cừ, Quận 1, Hồ Chí Minh",
+        "opening_time": "12:00:00",
+        "website_url": "http://www.hotelnikkosaigon.com.vn/",
+        "description": "At Hotel Nikko Saigon, we are aiming at being the most trusted hotel for the guests, owners, employees and community by providing consistent and personalized services. This is what gives meaning and values to our business and the working lives of ours. "
+    },
+    "model": "staservice.basedattraction",
+    "pk": 4
+},
+{
+    "fields": {
+        "attraction": 1,
+        "price": 65000.0,
+        "photo": "",
+        "name": "Bò steak sốt tiêu",
+        "description": "passion"
+    },
+    "model": "staservice.additionalitem",
+    "pk": 1
+},
+{
+    "fields": {
+        "attraction": 2,
+        "price": 369000.0,
+        "photo": "",
+        "name": "Áo sơ mi nam 83",
+        "description": "passion"
+    },
+    "model": "staservice.additionalitem",
+    "pk": 2
+},
+{
+    "fields": {
+        "attraction": 4,
+        "price": 2400000.0,
+        "photo": "",
+        "name": "Deluxe Room",
+        "description": "Located on 10th to 20th floor, Deluxe Rooms measure 40 square meters, and features an elegant yet spacious interior with a contemporary design, creating the ideal accommodation experience for both business and leisure travelers. Deluxe categorizes King and Twin bedding configurations offering a restful night for every stay."
+    },
+    "model": "staservice.additionalitem",
+    "pk": 3
+}
+]
